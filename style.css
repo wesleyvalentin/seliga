@@ -1,0 +1,23 @@
+.corpo{
+    background-color: turquoise;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: chartreuse;
+}
+
+p{
+    color: blue;
+    font-size: 21px;
+}
+
+ #link{
+    color: red;
+    text-decoration: none;
+ }
+
+ #link:hover{
+    color: blanchedalmond;
+    font-size: 15px;
+ }
